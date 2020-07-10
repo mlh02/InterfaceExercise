@@ -6,6 +6,10 @@ namespace InterfaceExercise
     {
         static void Main(string[] args)
         {
+            Truck fordTruck1 = new Truck();
+
+
+            fordTruck1.
             //TODO Be sure to follow BEST PRACTICES when creating classes and interfaces
 
             //Create 2 Interfaces called IVehicle & ICompany
